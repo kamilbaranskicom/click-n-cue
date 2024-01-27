@@ -1,5 +1,7 @@
 **Click** and **cue** instruments for playing with backing tracks.
 
+<img src="screenshot.png">
+
 tested with Kontakt 6.8 and Reaper 7.03.
 
 Cues in Polish language.
