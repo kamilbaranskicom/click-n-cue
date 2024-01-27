@@ -1,6 +1,6 @@
 **Click** and **cue** instruments for playing with backing tracks.
 
-<img src="screenshot.png" />
+<img src="screenshotnew.png" />
 
 tested with Kontakt 6.8 and Reaper 7.03.
 
