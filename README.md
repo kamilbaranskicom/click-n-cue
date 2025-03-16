@@ -11,7 +11,7 @@ Todo:
 * speed/tune automation (with host automation),
 * correct values on knobs,
 * improve the cue samples (dynamics and frequencies),
-* other click samples?
+* other click samples? what other words are essential?
 
 There's also <a href="https://github.com/kamilbaranskicom/kb_ReaScripts/blob/master/kb_Rename%20and%20color%20selected%20items%20depending%20on%20MIDI%20notes.lua">the script for renaming items according to cues</a>.
 
